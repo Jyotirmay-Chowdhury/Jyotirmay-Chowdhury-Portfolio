@@ -1,0 +1,8 @@
+logo:- 500x500
+
+
+folded: 500x500
+
+about-img size is 389x498
+
+profile-img size is 500x500
