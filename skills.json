@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Linux",
+        "icon": "https://img.icons8.com/color/48/linux--v1.png"
+    },
+    {
+        "name": "Git VCS",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "DevOps",
+        "icon": "https://img.icons8.com/external-flat-juicy-fish/60/external-dev-coding-and-development-flat-flat-juicy-fish.png"
+    },
+    {
+        "name": "Docker",
+        "icon": "https://img.icons8.com/color/48/docker.png"
+    },
+    {
+        "name": "Kubernates",
+        "icon": "https://img.icons8.com/color/48/kubernetes.png"
+    },
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/color/48/amazon-web-services.png"
+    },
+    {
+        "name": "Azure",
+        "icon": "https://img.icons8.com/fluency/48/azure-1.png"
+    },
+    {
+        "name": "Google Cloud Platform",
+        "icon": "https://img.icons8.com/color/48/000000/google-cloud-platform.png"
+    },
+    {
+        "name": "Go-Lang",
+        "icon": "https://img.icons8.com/color/48/golang.png"
+    },
+    {
+        "name": "Terraform",
+        "icon": "https://img.icons8.com/color/48/terraform.png"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "ReactJS",
+        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+    },
+    {
+        "name": "NodeJS",
+        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+    },
+    {
+        "name": "Redux",
+        "icon": "https://img.icons8.com/color/48/000000/redux.png"
+    },
+    {
+        "name": "Firebase",
+        "icon": "https://img.icons8.com/color/48/000000/firebase.png"
+    },
+    {
+        "name": "MaterialUI",
+        "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
+    },
+    {
+        "name": "DSA",
+        "icon": "https://img.icons8.com/color/48/000000/code.png"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+    },
+    {
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+    }
+]

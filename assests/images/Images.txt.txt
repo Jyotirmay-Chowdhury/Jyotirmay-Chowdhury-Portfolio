@@ -1,0 +1,71 @@
+Name of the Image | Size of the Image       (Total Changes:- 13)
+
+
+android -> 360x360
+
+cmsoon-> 500x500
+
+contact-> 500x500
+
+contact1->360x391
+
+favhand-> 50x50
+
+favicon-> 696x696      (Change)
+ 
+full-> 1080x1080       (Change)
+
+hero-> 800x600
+
+hero-> 450x450
+
+hero1-> 441x475
+
+lapy->2696x1517
+
+loader-> 800x600
+
+potrait (2)->1170x1170    (Change)
+
+potrait-> 631x577         (Imp-Change)
+
+preloader-> 480x480       (Change)
+
+profile->1080x1080        (Change)
+
+react->1200x630
+
+Saurav
+Mukherjee -
+Copy               -> 741x688     (Change)
+
+Saurav
+Mukherjee ->741x688               (Change)
+
+Screenshot (194)   ->1920x1080         (DevOps Projects)
+
+Screenshot (195)   ->1920x1080         (ALL Full Stack Projects)
+
+Screenshot (197)   ->1920x1080         (AWS Projects)
+
+Screenshot (214)   ->1920x1080         (Go-lang )
+
+Screenshot (215)   ->1920x1080         (SOCIAL_MEDIA,E-COMMERCE,BOOKING-APP,PRODUCTIVITY-APP,MESSAGING-APP,Video Streaming APP (YOUTUBE-CLONE))
+
+
+Projects:-
+
+1) CodeIN
+
+2) Library
+
+3) mlpr
+
+4) Netflix
+
+5) portfolio1
+
+
+
+
+
